@@ -1,1 +1,1 @@
-# Git hab 練習用 #
+# GitHub 練習用
